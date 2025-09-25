@@ -46,9 +46,7 @@ Follow these steps to get a local copy up and running.
 ### Installation & Execution
 
 1.  **Clone the Repository:**
-    ```bash
-    git clone https://github.com/VISHESHJAIN2006/VITyarthi-Java-Project
-    ```
+    
 
 2.  **Import into Eclipse IDE:**
     * Navigate to `File` > `Import` > `General` > `Existing Projects into Workspace`.
@@ -131,4 +129,5 @@ This table highlights where key OOP and Java concepts are implemented within the
 
 ### Academic Integrity
 This project represents my own individual work. In accordance with academic guidelines, no external code or assistance from Large Language Models (LLMs) was used in its creation. All referenced materials are cited above.
+
 
