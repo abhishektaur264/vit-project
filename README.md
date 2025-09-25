@@ -121,16 +121,14 @@ This table highlights where key OOP and Java concepts are implemented within the
 
 ## ✍️ Author
 
-**Vishesh Jain**
-
-* GitHub: [@VISHESHJAIN2006](https://github.com/VISHESHJAIN2006)
-
+* GitHub: [@abhishektaur264]([https://github.com/abhishektaur264/vit-project.git)
 ---
 
 ## Acknowledgements
 
-* This project was developed by **Vishesh Jain**. All code is their original work.
+* This project was developed by **Abhishek Taur**. All code is their original work.
 * Official Oracle Java SE Documentation was referenced during development.
 
 ### Academic Integrity
 This project represents my own individual work. In accordance with academic guidelines, no external code or assistance from Large Language Models (LLMs) was used in its creation. All referenced materials are cited above.
+
